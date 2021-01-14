@@ -1,0 +1,14 @@
+.f_row, .s_row, .t_row{
+	margin-bottom: 5px;
+}
+.bg{
+	background-color: gray;
+}
+p{
+	margin-bottom: 0;
+	color: white;
+	text-align: justify;
+}
+img{
+
+}
